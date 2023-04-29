@@ -1,3 +1,3 @@
 # Hello! 👋
-# Umm...
+
 This page is NOT finished!
